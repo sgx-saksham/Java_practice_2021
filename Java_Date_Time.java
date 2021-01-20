@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.time.LocalDate;
 
-public class abstract_class {
+public class Java_Date_Time {
     public static String getDay(String day, String month, String year) {
         int d = Integer.valueOf(day);
         int m = Integer.valueOf(month);
